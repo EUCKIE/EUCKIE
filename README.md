@@ -17,8 +17,8 @@
   <a href="#education">Education</a> •
   <a href="#tech-stack">Tech Stack</a> •
   <a href="#featured-projects">Projects</a> •
-  <a href="#workflow">Workflow</a> •
-  <a href="#connect">Connect</a>
+  
+
 </p>
 
 ---
@@ -70,17 +70,17 @@ React • React Native • Tailwind CSS
 
 ### Backend
 ```text
-Django • FastAPI • Laravel
+Django • FastAPI 
 ```
 
 ### AI / Machine Learning
 ```text
-TensorFlow • Pandas • NumPy • Jupyter Notebooks
+TensorFlow • Pandas • NumPy • Google Collab • ZenMl • MLflow
 ```
 
 ### Developer Tools
 ```text
-Git • GitHub • Postman • PyCharm • VS Code
+Git • GitHub • Postman • PyCharm • VS Code 
 ```
 
 ---
@@ -105,43 +105,6 @@ FastAPI → API Infrastructure
 TensorFlow → Predictive Analytics
 ```
 
-## Workflow
-
-```text
-┌────────────────────┐
-│   Product Design   │
-│  UI/UX Systems     │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│ Full-Stack Systems │
-│ FastAPI • Django   │
-└─────────┬──────────┘
-          │
-          ▼
-┌────────────────────┐
-│  Intelligent Layer │
-│ AI • ML • Analytics│
-└────────────────────┘
-```
-
----
-
-## Core Domains
-
-```text
-AI/ML Ecosystems
-Event Management Platforms
-Virtual Learning Systems
-Travel Booking Systems
-Portfolio Websites
-Mobile Applications
-IoT Solutions
-Digital Branding
-```
-
----
 
 ## GitHub Analytics
 
