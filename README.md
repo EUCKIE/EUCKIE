@@ -11,9 +11,11 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me">About</a> • 
+  <a href="#-profile">Profile</a> • 
+  <a href="#-education">Education</a> • 
   <a href="#-tech-stack">Tech Stack</a> • 
-  <a href="#-featured-projects">Projects</a> • 
+  <a href="#-experience--projects">Experience</a> • 
+  <a href="#-leadership">Leadership</a> • 
   <a href="#-contact">Connect</a>
 </p>
 
@@ -21,12 +23,18 @@
 
 ##  Profile
 
-I operate at the intersection of engineering, intelligence, and design. As an AI & Machine Learning student at the University of Zimbabwe, my work focuses on building high-performance full-stack applications rooted in precise UI/UX aesthetics and intelligent backend architectures. 
+I operate at the intersection of engineering, intelligence, and design. As an Artificial Intelligence & Machine Learning student at the University of Zimbabwe, my work fuses data structures, algorithmic optimization, and full-stack architecture with precise, production-ready UI/UX aesthetics.
 
-Driven by the philosophy of functional minimalism, I design and develop software solutions engineered to solve complex, real-world African challenges.
+Driven by functional minimalism, I architect intelligent systems designed to handle complex workflows while maintaining an elegant, premium user experience.
 
-* **Current Focus:** Deep Learning architectures, scalable microservices, and pixel-perfect interface design.
-* **Core Philosophy:** Less complexity. More intentionality.
+---
+
+## 🎓 Education
+
+### University of Zimbabwe
+* **Degree:** B.S. in Artificial Intelligence and Machine Learning *(Expected Graduation: August 2028)*
+* **Concentrations:** Intelligence and Machine Learning
+* **Related Coursework:** Data Structures & Algorithms, Machine Learning, Artificial Intelligence, Object-Oriented Programming, Statistics & Applications, Web & Mobile Computing
 
 ---
 
@@ -34,4 +42,4 @@ Driven by the philosophy of functional minimalism, I design and develop software
 
 ### Language Ecosystem
 ```text
-Python ── JavaScript ── PHP ── SQL ── HTML5/CSS3
+Python ── JavaScript ── HTML5/CSS3 ── SQL
