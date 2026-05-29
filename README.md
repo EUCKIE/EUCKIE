@@ -1,4 +1,4 @@
-````md
+
 # Design × Code × Intelligence
 
 <p align="center">
@@ -105,29 +105,6 @@ FastAPI → API Infrastructure
 TensorFlow → Predictive Analytics
 ```
 
----
-
-### Eventelio Event Management System
-A scalable event management platform focused on registrations, scheduling, and administrative automation.
-
-**Stack:** Laravel • React • MySQL
-
----
-
-### Virtual Labs for Education
-Interactive educational laboratory simulations designed to improve science and technology learning experiences.
-
-**Focus Areas:** Physics • Chemistry • Biology
-
----
-
-### AI Loan Default Predictor
-Machine learning system designed for intelligent financial risk prediction and data-driven decision support.
-
-**Stack:** Python • TensorFlow • Pandas
-
----
-
 ## Workflow
 
 ```text
@@ -185,19 +162,3 @@ Digital Branding
 
 ---
 
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/euclide-mtisi-929">
-    LinkedIn
-  </a>
-  •
-  <a href="#">
-    Portfolio
-  </a>
-  •
-  <a href="mailto:your@email.com">
-    Email
-  </a>
-</p>
-````
