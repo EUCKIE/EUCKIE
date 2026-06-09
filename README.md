@@ -57,12 +57,12 @@ My interests span:
 
 ### Languages
 ```text
-Python • JavaScript • SQL • HTML5 • CSS3
+Python • JavaScript • SQL 
 ```
 
 ### Frontend
 ```text
-React • React Native • Tailwind CSS
+React • Tailwind CSS
 ```
 
 ### Backend
@@ -72,12 +72,12 @@ Django • FastAPI
 
 ### AI / Machine Learning
 ```text
-TensorFlow • Pandas • NumPy • Google Collab • ZenMl • MLflow
+TensorFlow • Pandas • NumPy • Google Collab  • PyTorch •MLflow
 ```
 
 ### Developer Tools
 ```text
-Git • GitHub • Postman • PyCharm • VS Code 
+Git • GitHub • Postman • PyCharm • VS Code • Git Actions
 ```
 
 ---
@@ -118,7 +118,7 @@ TensorFlow → Predictive Analytics
 
 ## Philosophy
 
-> Minimal interfaces. Intelligent systems. Meaningful technology.
+> Turning data into intelligence and ideas into scalable AI solutions.
 
 ---
 
