@@ -31,12 +31,9 @@ As an Artificial Intelligence & Machine Learning student at the University of Zi
 
 My interests span:
 - Artificial Intelligence & Machine Learning
+- Data Science & MLOps
 - Full-Stack Engineering
-- Mobile & Web Applications
-- Intelligent Automation
-- UI/UX Systems
-- Digital Product Design
-- IoT & Smart Technologies
+- Intelligent Systems & Automation
 
 ---
 
