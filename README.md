@@ -8,15 +8,15 @@
 <h1 align="center">Euclide Mtisi</h1>
 
 <p align="center">
-  <strong>Artificial Intelligence & Machine Learning Student</strong><br/>
-  Full-Stack Developer • Graphic Designer • Creative Technologist
+  <strong>Artificial Intelligence & Machine Learning Engineer</strong>
+
 </p>
 
 <p align="center">
   <a href="#profile">Profile</a> •
   <a href="#education">Education</a> •
   <a href="#tech-stack">Tech Stack</a> •
-  <a href="#featured-projects">Projects</a> •
+  <a href="#featured-projects">Projects</a> 
   
 
 </p>
